@@ -7,12 +7,12 @@
 	<name>PhoneGap: Getting Started</name>
 
 	<description>
-		A template for getting started with PhoneGap development and build.phonegap.com
+		A calcRasa template for getting started with PhoneGap development and build.phonegap.com
 	</description>
 
-	<author href="http://alunny.github.com"
-		email="andrew.lunny@nitobi.com">
-		Andrew Lunny
+	<author href="http://prograsa.com"
+		email="yonk@thekeystore.com">
+		John Calhoun
 	</author>
 
 	<gap:platforms>
